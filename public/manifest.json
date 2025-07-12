@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Fotografía Pro",
+  "name": "Fotografía Manual Pro - Controles Avanzados",
+  "description": "Aplicación de fotografía manual con controles avanzados y modos semiautomáticos para móvil",
   "icons": [
     {
       "src": "favicon.ico",
@@ -21,5 +22,10 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "scope": "/",
+  "categories": ["photography", "utilities"],
+  "lang": "es",
+  "dir": "ltr"
 }
